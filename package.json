@@ -14,7 +14,7 @@
   },
   "scripts": {
     "test": "tsx --test ./src/test.ts && eslint .",
-    "build": "pkgroll"
+    "prepare": "pkgroll"
   },
   "repository": {
     "type": "git",
